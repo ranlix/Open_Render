@@ -1,0 +1,2 @@
+计算一个video从open开始到视频render直接的时间来看player的performance。
+由于要尽可能过滤掉网络的问题，就取多次数据中的最小值.
